@@ -7,7 +7,7 @@
 
 # Download Link
 
-Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Mi_Mix_2/releases)
+Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Mi_MIX_2/releases)
 
 # Credits
 
