@@ -1,4 +1,4 @@
-# Evolution X Xiaomi Mi Mix 2
+# Evolution X Xiaomi Mi MIX 2
 
 ![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_3.png?raw=true)
 
